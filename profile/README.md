@@ -4,6 +4,13 @@
 <p align="center">Pengunjung<br/><img src="https://profile-counter.glitch.me/{GMDP-Developers}/count.svg" alt="neoxr :: Visitor's Count" /></p>
 </div>
 
+<div align="center">
+  <h1> Ebilling 2.0 Segera Rilis </h1>
+  <h3> Akhir Tahun 2024 </h3>
+</div>
+
+<hr>
+
 ## Kami saat ini sedang mengembangkan :
  * Ebilling <a href="https://github.com/GMDP-Developers/Billing-ISP">Informasi Lengkap Disini</a>
  * Whatsapp Broadcasting <a href="https://github.com/GMDP-Developers/Whatsapp-Bot-Ebilling">Informasi Lengkap Disini</a>
