@@ -5,9 +5,17 @@
 </div>
 
 <div align="center">
-  <h1> Ebilling 2.0 Segera Rilis </h1>
-  <h3> Akhir Tahun 2024 </h3>
+  <h1> Ebilling 2.0 </h1>
 </div>
+
+#### eBilling V2.0 menghadirkan beberapa fitur baru, seperti :
+- Tampilan Baru. </br>
+- Hapus Pelanggan (khusus Owner). </br>
+- Pembayaran Manual secara massal. </br>
+- Generate invoice mandiri. </br>
+- WhatsApp Broadcast. <br>
+
+
 
 <hr>
 
