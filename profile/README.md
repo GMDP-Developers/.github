@@ -1,7 +1,7 @@
 <div align="center">
 <h1> Selamat Datang di GMDP Developers</h1>
 <h2>PT. Global Media Data Prima</h2>
-<p align="center">Pengunjung<br/><img src="https://profile-counter.glitch.me/{GMDP-Developers}/count.svg" alt="neoxr :: Visitor's Count" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=GMDP-Developers&style=flat-square&label=Pengunjung+GMDP+Dev" alt="Visitor's Count" /></p>
 </div>
 
 <div align="center">
